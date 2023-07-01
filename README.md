@@ -1,0 +1,1 @@
+# Coopado-git-setup
